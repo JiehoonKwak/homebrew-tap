@@ -1,10 +1,10 @@
-# Template: scripts/update-tap.sh fills in 0.1.4 and 7cf8d3e9b1c3fcfa64ae37d1e29145bbd14f1fb2101960763315df0da99e8940.
+# Template: scripts/update-tap.sh fills in 0.1.5 and 0efd531b59d3e88945ab9b4c82ea79ea5902c1105bfc93c96122d9db5b8dca8a.
 class RexMicro < Formula
   desc "Use a Work Louder Codex Micro as a controller for the Rex terminal"
   homepage "https://github.com/JiehoonKwak/rex-micro"
-  url "https://github.com/JiehoonKwak/rex-micro/releases/download/v0.1.4/rex-micro_0.1.4_darwin_universal.tar.gz"
-  version "0.1.4"
-  sha256 "7cf8d3e9b1c3fcfa64ae37d1e29145bbd14f1fb2101960763315df0da99e8940"
+  url "https://github.com/JiehoonKwak/rex-micro/releases/download/v0.1.5/rex-micro_0.1.5_darwin_universal.tar.gz"
+  version "0.1.5"
+  sha256 "0efd531b59d3e88945ab9b4c82ea79ea5902c1105bfc93c96122d9db5b8dca8a"
   license "MIT"
 
   depends_on :macos
